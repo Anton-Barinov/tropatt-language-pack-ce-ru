@@ -1,0 +1,16 @@
+{
+    "type": "language_pack",
+    "name": "language-pack-ce-ru",
+    "full_code": "crm.language-pack-ce-ru",
+    "vendor": "crm",
+    "code": "ce-ru",
+    "title": "Нохчийн Language Pack (Нохчийн)",
+    "native_name": "Нохчийн",
+    "direction": "ltr",
+    "author": "Anton Barinov",
+    "version": "1.0.0",
+    "category": "localization",
+    "min_crm_version": "20260928.001",
+    "description": "TropaTT CRM Нохчийн localization pack.",
+    "signature": "d8015fce0d8bd0a39ef03768d0b781340789ab52c375e710f991cf5ec31fb513"
+}

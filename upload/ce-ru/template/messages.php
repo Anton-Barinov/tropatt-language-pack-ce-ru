@@ -1,0 +1,33 @@
+<?php
+declare(strict_types=1);
+
+return array (
+  'task_list' => 'болх template list',
+  'task_created' => 'болх template created',
+  'task_detail' => 'болх template',
+  'task_updated' => 'болх template updated',
+  'task_deleted' => 'болх template deleted',
+  'project_list' => 'проект template list',
+  'project_created' => 'проект template created',
+  'project_detail' => 'проект template',
+  'project_updated' => 'проект template updated',
+  'project_deleted' => 'проект template deleted',
+  'max_255' => 'Maximum 255 characters',
+  'payload_object' => 'payload field must be an object',
+  'not_found' => 'Template not found',
+  'empty_tasks' => 'No болх templates',
+  'empty_projects' => 'No проект templates',
+  'load_error_tasks' => 'Failed to load болх templates',
+  'load_error_projects' => 'Failed to load проект templates',
+  'btn_delete' => 'дӀадаккха',
+  'created_task_notify' => 'болх template created',
+  'created_project_notify' => 'проект template created',
+  'error_create' => 'кхолла гӀалат',
+  'confirm_delete_task' => 'дӀадаккха болх template?',
+  'confirm_delete_project' => 'дӀадаккха проект template?',
+  'deleted_task_notify' => 'болх template deleted',
+  'deleted_project_notify' => 'проект template deleted',
+  'error_delete' => 'дӀадаккха гӀалат',
+  'task_applied' => 'болх created from template',
+  'project_applied' => 'проект created from template',
+);

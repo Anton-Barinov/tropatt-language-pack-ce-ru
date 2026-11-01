@@ -1,0 +1,31 @@
+<?php
+declare(strict_types=1);
+
+return array (
+  'dashboard' => 'Dashboard',
+  'ideas' => 'Ideas',
+  'tasks' => 'болхаш',
+  'day' => 'My day',
+  'week' => 'My кӀира',
+  'kanban' => 'Kanban',
+  'gantt' => 'Gantt',
+  'projects' => 'Projects',
+  'calendar' => 'календарь',
+  'counterparties' => 'Counterparties',
+  'teams' => 'Teams',
+  'knowledge' => 'Knowledge base',
+  'analytics' => 'Analytics',
+  'notifications' => 'хаамаш',
+  'admin' => 'Administration',
+  'intake' => 'Intake',
+  'cycles' => 'Cycles (Sprints)',
+  'project_modules' => 'проект Modules',
+  'admin_estimates' => 'болх Estimates',
+  'admin_modules' => 'Modules',
+  'chat' => 'Chats',
+  'docs' => 'Documentation',
+  'api' => 'Documentation',
+  'my_earnings' => 'My earnings',
+  'rate_cards' => 'Rate cards',
+  'menu_loaded' => 'Menu loaded',
+);

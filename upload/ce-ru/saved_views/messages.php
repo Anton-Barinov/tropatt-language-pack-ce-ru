@@ -1,0 +1,33 @@
+<?php
+declare(strict_types=1);
+
+return array (
+  'loading' => 'чуйиллина...',
+  'load_error' => 'чуйиллина гӀалат',
+  'empty' => 'No saved views',
+  'pinned' => 'Pinned',
+  'other' => 'Others',
+  'system' => 'System',
+  'public' => 'Public',
+  'private' => 'Private',
+  'pin' => 'Pin',
+  'unpin' => 'Unpin',
+  'duplicate' => 'Duplicate',
+  'edit' => 'Edit',
+  'archive' => 'Archive',
+  'applied' => 'View applied: ',
+  'apply_error' => 'гӀалат applying View',
+  'save_as' => 'лахьара as New View',
+  'edit_title' => 'Edit View',
+  'title_required' => 'Enter a View цӀе',
+  'update_error' => 'гӀалат updating View',
+  'create_error' => 'гӀалат creating View',
+  'pinned_msg' => 'Pinned',
+  'unpinned_msg' => 'Unpinned',
+  'pin_error' => 'гӀалат',
+  'duplicated' => 'View duplicated',
+  'duplicate_error' => 'гӀалат duplicating',
+  'confirm_archive' => 'Archive this View?',
+  'archived' => 'View archived',
+  'archive_error' => 'гӀалат archiving',
+);
